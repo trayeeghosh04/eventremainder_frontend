@@ -1,0 +1,17 @@
+.register{
+    margin-left: 40%;
+
+}
+.input{
+    background-color: transparent;
+    
+}
+.backGround{
+    background-image: url('../images/logBackground.png');
+}
+
+.logiImg{
+    background-image: url('../images/login.avif');
+    background-position: center;
+}
+/* linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , */
